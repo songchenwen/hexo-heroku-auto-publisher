@@ -1,6 +1,6 @@
 {
   "name": "hexo-heroku-auto-publisher",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Pull github issues to Hexo as posts automatically on Heroku",
   "main": "auto_publisher",
   "scripts": {
