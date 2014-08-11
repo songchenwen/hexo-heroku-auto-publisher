@@ -7,7 +7,7 @@ var async = require('async');
 
 var files_to_download = [
 {
-    src: 'https://gist.github.com/emptyzone/63a27d4653d1f3b82c1c/raw/41381f988aa541e12698b8e76f7b2fb7b94828bb/app.js',
+    src: 'https://gist.github.com/emptyzone/63a27d4653d1f3b82c1c/raw/fc48e446b99df89e88de75621405a4106767e4e0/app.js',
     dest: 'app.js'
 },
 {
