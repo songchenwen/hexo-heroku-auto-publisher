@@ -21,7 +21,7 @@ var files_to_download = [
 
 var commands = [
 'ssh-keygen -t rsa -f .ssh/id_rsa -q -N ""',
-'npm install hexo async express body-parser --save'
+'npm install hexo async express body-parser hexo-migrator-issue --save'
 ];
 
 var transform = function(args, callback){
