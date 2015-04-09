@@ -1,4 +1,4 @@
-hexo-heroku-auto-publisher
+hexo-heroku-auto-publisher (Deprecated, Travi-CI is a better solution)
 ==========================
 
 Pull github issues to Hexo as posts automatically on Heroku.
